@@ -1,9 +1,7 @@
 # Evaluating Modern Policy Evaluation Methods with Realistic Data
 
-Replication code for **"Small Samples and Short Panels: Evaluating Modern Policy Evaluation Methods with Realistic Data"** by Stewart, Hettinger, Lee, and Mitra (2026).
+Replication code for [**"Small Samples and Short Panels: Evaluating Modern Policy Evaluation Methods with Realistic Data"**](https://arxiv.org/abs/2608.01537) by Stewart, Hettinger, Lee, and Mitra (2026).
 The paper evaluates the performance of synthetic difference-in-differences and augmented synthetic controls in realistic, small-sample settings, by employing a calibrated simulation strategy that allows the injection of a known treatment effect into existing data in a setting of interest. This repository contains our simulation code, including that used to create the tables in our paper.
-
-- arxiv: arXiv:2608.01537
 
 ## Repository structure
 
