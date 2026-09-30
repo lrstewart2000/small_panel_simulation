@@ -1,0 +1,14 @@
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.DS_Store
+out/
+data/*
+!data/raw/
+data/raw/*
+!data/raw/README.md
+archive/
+logs/
+aggregate_sim.log
